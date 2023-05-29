@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**VLTino/VLTino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi guys, I'm Ahmad Valentino Pramodya
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning <b>Web Development</b>
+- 📚 I’m studying at <b>SMK N 1 Bantul</b>
+
+
+## 🧰 Something I'm Learning 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,bootstrap,laravel,mysql,git,react" />
+  </a>
+</p>
+
+ 
+<a href="https://github.com/VLTino/VLTino">
+ <img class="align-senter" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VLTino&layout=compact&theme=dark#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/VLTino/VLTino">
+  <img class="align-senter" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VLTino&&show_icons=true&theme=dark"/>
+</a>
+
+ 
+ 
+
